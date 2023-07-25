@@ -11,7 +11,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
           
 <details>
   <sumary>:zap: Github Stats </sumary>
-  <img align="left" alt="GustavoFidelisC Github Stats" src="[https://gustavofidelisc.vercel.app](https://github.com/anuraghazra/github-readme-stats)/api?username=gustavofidelisc&show_icons=true&hide_border=true" />
+  <img align="left" alt="GustavoFidelisC Github Stats" src="github-readme-stats-ten-gilt-20.vercel.app
+(https://github.com/anuraghazra/github-readme-stats)/api?username=gustavofidelisc&show_icons=true&hide_border=true" />
 </details>
 
 
