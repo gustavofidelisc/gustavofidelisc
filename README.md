@@ -9,6 +9,11 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Gus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Gus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
           
+<details>
+  <sumary>:zap: Github Stats </sumary>
+  <img align="left" alt="GustavoFidelisC Github Stats" src="https://gustavofidelisc.vercel.app/api?username=gustavofidelisc&show_icons=true&hide_border=true" />
+</details>
+
 
 </div>
   
