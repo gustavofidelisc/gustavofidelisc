@@ -27,13 +27,5 @@
 
 <br />
 
----
-
-<details>
-  <summary align="left">:zap: Top languages </summary><br />
-  <img align="left"  alt="GustavoFidelisC Top languages" src=https://github-readme-stats-gustavofidelisc.vercel.app/api/top-langs/?username=gustavofidelisc />
-</details>
-
-
  
 
