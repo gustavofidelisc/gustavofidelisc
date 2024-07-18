@@ -29,7 +29,7 @@
 <div align="center">
   <a href="#">
       <img alt="strak-stats" height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=GustavoFidelisc&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats" /> 
-      <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpanta&layout=compact&hide_border=true&theme=react" />    
+      <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofidelisc&layout=compact&hide_border=true&theme=react" />    
   </a>
 </div>
 
