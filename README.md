@@ -79,7 +79,8 @@
   <a href="https://www.linkedin.com/in/gustavo-fidelis-camilo-219b47255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+<br>
+<br>
 
 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/fa0ca60c-e790-43ce-9807-ca2d171753ec"/>
