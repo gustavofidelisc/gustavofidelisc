@@ -9,7 +9,7 @@
 <br> 
 
 <p>
-  Tenho 21 anos, nascido em Alfenas-MG. Sou estudante de Ciência da Computação pela Universidade Federal de Alfenas (UNIFAL-MG), atualmente no 7º período.
+  Tenho 21 anos, nascido em Alfenas-MG-Brasil. Sou estudante de Ciência da Computação pela Universidade Federal de Alfenas (UNIFAL-MG), atualmente no 7º período.
 </p>
 
 ##
