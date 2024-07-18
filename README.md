@@ -1,6 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/342f12f6-251b-4b4d-8cf8-ac8782e3eb41"/>
 <br>
 <br> 
+<br>
 
 <div align="center">
 
@@ -27,7 +28,7 @@
 <div align="center">
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GustavoFidelisc&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GustavoFidelisc&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
 
