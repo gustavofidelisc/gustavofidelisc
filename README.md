@@ -3,10 +3,12 @@
 <br> 
 
 <div align="center">
-  
 
-## Olá!! Eu sou o Gustavo Fidelis 👋
-<br> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+bold&duration=4500&pause=2000&color=000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!!+Eu+sou+o+Gustavo+Fidelis+%F0%9F%91%8B)](https://git.io/typing-svg)
+</div>
+
+## 
+
 
 <p>
   Tenho 21 anos, nascido em Alfenas-MG-Brasil. Sou estudante de Ciência da Computação pela Universidade Federal de Alfenas (UNIFAL-MG), atualmente no 7º período.
