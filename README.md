@@ -57,7 +57,7 @@
 ## 
 
 
-## 📚 Estundo nesse momento
+## 📚 Estudando nesse momento
 
 <div align= "center" style="display: inline_block"><br>
   <img align="center" alt="Gus-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
