@@ -4,8 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+bold&duration=4500&pause=2000&color=000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!!+Eu+sou+o+Gustavo+Fidelis+%F0%9F%91%8B)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+bold&size=25&duration=4500&pause=2000&color=000000&width=435&lines=Ol%C3%A1!!+Eu+sou+o+Gustavo+Fidelis+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 
 
