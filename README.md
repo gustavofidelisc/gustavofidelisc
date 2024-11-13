@@ -28,10 +28,11 @@
 
 <div align="center">
   <a href="#">
-      <img alt="strak-stats" height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=gustavofidelisc&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats" /> 
-      <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofidelisc&layout=compact&hide_border=true&theme=transparent" />    
+      <img alt="streak-stats" height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=gustavofidelisc&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun,Sat" />
+      <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofidelisc&layout=compact&hide_border=true&theme=transparent" />
   </a>
 </div>
+
 
 ##
 
